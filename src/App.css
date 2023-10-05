@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.btn-counters {
+  border-radius: 1px solid;
+  margin: 2px;
+}
